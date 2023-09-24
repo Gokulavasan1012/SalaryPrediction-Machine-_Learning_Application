@@ -13,7 +13,8 @@
                      * Python StreamLit- StreamLit is a open source Python library which is used to create and share Machine learning application. It helps us to create required web pages and also takes care of database requirements of our project.
 <br>
 <h3>Project Architecture: </h3>
-<br>![image](https://github.com/Gokulavasan1012/SalaryPrediction-Machine_Learning_Application/assets/119430247/6a452c7f-2fd6-4b39-b2a0-d7627043064c)# Software-Developer's Salary Prediction 
+<br>
+![image](https://github.com/Gokulavasan1012/SalaryPrediction-Machine_Learning_Application/assets/119430247/19196dc8-4b0b-4d7f-8287-9271bf3ecd6b)
 
 
 
