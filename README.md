@@ -14,7 +14,8 @@
 <br>
 <h3>Project Architecture: </h3>
 <br>
-![image](https://github.com/Gokulavasan1012/SalaryPrediction-Machine_Learning_Application/assets/119430247/19196dc8-4b0b-4d7f-8287-9271bf3ecd6b)
-
+![Salary prediction Architecture](https://github.com/Gokulavasan1012/SalaryPrediction-Machine_Learning_Application/assets/119430247/19196dc8-4b0b-4d7f-8287-9271bf3ecd6b)
+<br>
+<h3>Salary Prediction Application:t</h3>
 
 
