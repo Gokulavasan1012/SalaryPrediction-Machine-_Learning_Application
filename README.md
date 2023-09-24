@@ -16,6 +16,6 @@
 <br>
 ![image](https://github.com/Gokulavasan1012/SalaryPrediction-Machine_Learning_Application/assets/119430247/d5b2d774-a7de-4da7-8b48-8410b184afcb)
 <br>
-<h3>Salary Prediction Application:t</h3>
+
 
 
